@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/51db0d97-799b-4436-8db5-85523daf35de)# pitomnik
+# pitomnik
 # Итоговая контрольная работа
 
 ## Задача:
